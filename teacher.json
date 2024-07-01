@@ -1,0 +1,34 @@
+[
+   {
+      "Name": "Stephen Hawking",
+      "Address": "Alaska",
+      "Email": "stephawk@gmail.com",
+      "Subject": "Astronomy",
+      "ID": 1,
+      "Phone": 3453452131
+   },
+   {
+      "Name": "Richard Feynman",
+      "Address": "Nevada",
+      "Email": "rfeynman@gmail.com",
+      "Subject": "Particle Physics",
+      "ID": 2,
+      "Phone": 1234557892
+   },
+   {
+      "Name": "Albert Einstein",
+      "Address": "Berlin",
+      "Email": "aeinstein@gmail.com",
+      "Subject": "Nuclear Physics",
+      "ID": 3,
+      "Phone": 2222233333
+   },
+   {
+      "Name": "Plank",
+      "Address": "Rome",
+      "Email": "plank@gmail.com",
+      "Subject": "Astrology",
+      "ID": 5,
+      "Phone": 5555555555
+   }
+]

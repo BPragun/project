@@ -1,0 +1,44 @@
+[
+   {
+      "Name": "Ram",
+      "Address": "Nawalparasi",
+      "Email": "rampradhan@gmail.com",
+      "Marks": [
+         88.0,
+         82.0,
+         83.0,
+         84.0,
+         85.0
+      ],
+      "Roll": 1,
+      "Phone": 9877453431
+   },
+   {
+      "Name": "Damodar Kharel",
+      "Address": "Kavre",
+      "Email": "dammu@gmail.com",
+      "Marks": [
+         67.0,
+         98.0,
+         57.0,
+         88.0,
+         81.0
+      ],
+      "Roll": 2,
+      "Phone": 9877654321
+   },
+   {
+      "Name": "Eklabya Sharma",
+      "Address": "Gurukul",
+      "Email": "eklabs@gmail.com",
+      "Marks": [
+         10.0,
+         44.0,
+         55.0,
+         66.0,
+         77.0
+      ],
+      "Roll": 3,
+      "Phone": 3334445556
+   }
+]
